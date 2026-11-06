@@ -1,21 +1,17 @@
 <p align="center">
-    <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
+    <img width="300" src="assets/images/banner/logo.svg" alt="Logo Mundo Invertido">
 </p>
 
 -------
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
+Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)?
 
-## ▶️ Semana Front-end
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
 ## 💻 Tecnologias
 - HTML
 - CSS
 - JavaScript (ES Modules)
 
-## ✨ Minhas melhorias
-Este é um fork/evolução do projeto da Semana Front-end da DIO. Além de replicar a
-landing page, evoluí o código com foco em **JavaScript modular** e **animações**:
+## ✨ Destaques
+Landing page com foco em **JavaScript modular** e **animações**:
 
 - **Troca de mundos (tema) via JS modular** — sem `onclick` inline. A preferência é
   persistida em `localStorage` e respeita `prefers-color-scheme` na primeira visita.
@@ -54,19 +50,17 @@ npx http-server -p 5173 -c-1
 
 ## 💬 Assuntos abordados
 - HTML
-    - Estruturação da página 
+    - Estruturação da página
     - Semântica
     - Acessibilidade
-    - Web Scraping
     - SEO
 - CSS
     - Posicionamentos
     - Pseudo-elementos
     - Pseudo-classes
     - Flexbox
-    - Animações 
+    - Animações
 - JavaScript
-    - Introdução ao JavaScript
     - Manipulação do DOM
     - ES Modules e separação de responsabilidades
     - IntersectionObserver e CustomEvent
@@ -118,30 +112,8 @@ npx http-server -p 5173 -c-1
   --footer-background-color: #000;
 }
 ```
-## 🔗 Links auxiliares
 
+## 🔗 Links auxiliares
 - [W3C - World Wide Web Consortium](http://w3c.org)
 - [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
-- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
-- [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
-## 🌎 Nossas redes sociais
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
-    <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/diogomainardes">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/diogomainardes/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/dimmbr">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
-    <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/3266640?v=4"/>
-    <p>&nbsp&nbsp&nbspRenan Johannsen de Paula <br>
-    &nbsp&nbsp&nbsp<a href="https://github.com/RenanJPaula">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
-    </p>
-</p>
+- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/)
